@@ -63,7 +63,7 @@ Face-Recognition-Attendance-System/
 
 ## 🔹 Face Detection & Recognition
 
-![Face Recognition]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (426).png")
+
 <img width="1920" height="1200" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/192b9d86-2c81-43da-a25d-3c0a0ef6621e" />
 
 ---
@@ -76,7 +76,8 @@ Face-Recognition-Attendance-System/
 
 ## 🔹 Attendance CSV File
 
-![CSV Attendance](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (428).png)
+
+<img width="1920" height="1200" alt="Screenshot (428)" src="https://github.com/user-attachments/assets/1122f2e4-a2fb-4515-8fb4-c0371d189cc0" />
 
 ---
 
