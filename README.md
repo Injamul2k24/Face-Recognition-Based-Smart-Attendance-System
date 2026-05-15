@@ -64,7 +64,7 @@ Face-Recognition-Attendance-System/
 ## 🔹 Face Detection & Recognition
 
 
-<img width="1920" height="1200" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/192b9d86-2c81-43da-a25d-3c0a0ef6621e" />
+<img width="1220" height="1000" alt="Screenshot (429)" src="https://github.com/user-attachments/assets/272b2646-a3d1-44b8-bc36-40553d8c6792" />
 
 ---
 
