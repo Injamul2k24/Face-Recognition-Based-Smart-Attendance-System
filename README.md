@@ -64,6 +64,7 @@ Face-Recognition-Attendance-System/
 ## 🔹 Face Detection & Recognition
 
 ![Face Recognition]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (426).png")
+<img width="1920" height="1200" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/192b9d86-2c81-43da-a25d-3c0a0ef6621e" />
 
 ---
 
