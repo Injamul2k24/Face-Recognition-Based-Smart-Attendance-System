@@ -99,7 +99,10 @@ python test.py
 
 ### Face Registration
 
+<img width="915" height="1022" alt="Screenshot 2026-06-20 114941" src="https://github.com/user-attachments/assets/0fb45c18-82cd-422a-863c-9a4b8cd5f76f" />
+
 ```markdown
+
 <img width="915" height="1022" alt="Screenshot 2026-06-20 114941" src="https://github.com/user-attachments/assets/ab5d945d-3212-4197-ab32-66a03a227b74" />
 
 
