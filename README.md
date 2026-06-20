@@ -93,13 +93,15 @@ python test.py
 ### Home Screen
 
 ```markdown
+
 ![Home Screen](screenshots/home.png)
 ```
 
 ### Face Registration
 
 ```markdown
-![Face Registration](screenshots/add_face.png)
+
+![Face Registration](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2026-06-20 114941.png)
 ```
 
 ### Attendance Marking
