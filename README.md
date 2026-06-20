@@ -100,7 +100,8 @@ python test.py
 ### Face Registration
 
 ```markdown
-<img width="345" height="500" alt="Screenshot 2026-06-20 114941" src="https://github.com/user-attachments/assets/824044ea-f783-473b-9ced-1dc497a394b8" />
+<img width="915" height="1022" alt="Screenshot 2026-06-20 114941" src="https://github.com/user-attachments/assets/ab5d945d-3212-4197-ab32-66a03a227b74" />
+
 
 ```
 
