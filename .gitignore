@@ -1,0 +1,11 @@
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+data/faces_data.pkl
+data/names.pkl
+
+.DS_Store
+Thumbs.db
